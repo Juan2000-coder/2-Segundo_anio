@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:America/Argentina/Buenos_Aires
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Argentina/Buenos_Aires
+X-LIC-LOCATION:America/Argentina/Buenos_Aires
+BEGIN:STANDARD
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0300
+TZNAME:ART
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20210329T170143Z
+DTSTART;TZID=America/Argentina/Buenos_Aires:20210329T140000
+DTEND;TZID=America/Argentina/Buenos_Aires:20210329T160000
+SUMMARY:Clases Analisis Matematico II
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20210628T190000;INTERVAL=1;BYDAY=MO
+UID:ZOOM82529430312
+TZID:America/Argentina/Buenos_Aires
+DESCRIPTION:Clases04 Ingeniería UNCuyo le está invitando a una reunión de
+  Zoom programada.\n\nUnirse a la reunión Zoom\nhttps://us02web.zoom.us/j
+ /82529430312?pwd=YmQ5bFlzTVYyZGVLa0VvajAyZzFNUT09\n\nID de reunión: 825 
+ 2943 0312\nCódigo de acceso: 413872\nMóvil con un toque\n+12532158782\,\
+ ,82529430312#\,\,\,\,*413872# Estados Unidos de América (Tacoma)\n+13017
+ 158592\,\,82529430312#\,\,\,\,*413872# Estados Unidos de América (Washin
+ gton DC)\n\nMarcar según su ubicación\n        +1 253 215 8782 Estados U
+ nidos de América (Tacoma)\n        +1 301 715 8592 Estados Unidos de Amé
+ rica (Washington DC)\n        +1 312 626 6799 Estados Unidos de América 
+ (Chicago)\n        +1 346 248 7799 Estados Unidos de América (Houston)\n
+         +1 669 900 6833 Estados Unidos de América (San Jose)\n        +1
+  929 205 6099 Estados Unidos de América (New York)\nID de reunión: 825 2
+ 943 0312\nCódigo de acceso: 413872\nEncuentre su número local: https://u
+ s02web.zoom.us/u/kcPIXkVUPA\n
+LOCATION:https://us02web.zoom.us/j/82529430312?pwd=YmQ5bFlzTVYyZGVLa0Vvaj
+ AyZzFNUT09
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

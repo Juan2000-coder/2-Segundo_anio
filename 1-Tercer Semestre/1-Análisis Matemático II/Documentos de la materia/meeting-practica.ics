@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:America/Argentina/Buenos_Aires
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Argentina/Buenos_Aires
+X-LIC-LOCATION:America/Argentina/Buenos_Aires
+BEGIN:STANDARD
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0300
+TZNAME:ART
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20210405T235659Z
+DTSTART;TZID=America/Argentina/Buenos_Aires:20210406T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20210406T200000
+SUMMARY:Clases Analisis Matematico II
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20210629T230000;INTERVAL=1;BYDAY=TU
+UID:ZOOM84500445484
+TZID:America/Argentina/Buenos_Aires
+DESCRIPTION:Clases04 Ingeniería UNCuyo le está invitando a una reunión de
+  Zoom programada.\n\nUnirse a la reunión Zoom\nhttps://us02web.zoom.us/j
+ /84500445484?pwd=c24yMFZ4b0NKZWphNEYxNTZPMEp4Zz09\n\nID de reunión: 845 
+ 0044 5484\nCódigo de acceso: 908519\nMóvil con un toque\n+13126266799\,\
+ ,84500445484#\,\,\,\,*908519# Estados Unidos de América (Chicago)\n+1346
+ 2487799\,\,84500445484#\,\,\,\,*908519# Estados Unidos de América (Houst
+ on)\n\nMarcar según su ubicación\n        +1 312 626 6799 Estados Unidos
+  de América (Chicago)\n        +1 346 248 7799 Estados Unidos de América
+  (Houston)\n        +1 669 900 6833 Estados Unidos de América (San Jose)
+ \n        +1 929 205 6099 Estados Unidos de América (New York)\n        
+ +1 253 215 8782 Estados Unidos de América (Tacoma)\n        +1 301 715 8
+ 592 Estados Unidos de América (Washington DC)\nID de reunión: 845 0044 5
+ 484\nCódigo de acceso: 908519\nEncuentre su número local: https://us02we
+ b.zoom.us/u/kcc0vq3ujd\n
+LOCATION:https://us02web.zoom.us/j/84500445484?pwd=c24yMFZ4b0NKZWphNEYxNT
+ ZPMEp4Zz09
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
