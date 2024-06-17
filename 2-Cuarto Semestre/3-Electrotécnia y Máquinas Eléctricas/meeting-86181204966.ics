@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:America/Argentina/Buenos_Aires
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Argentina/Buenos_Aires
+X-LIC-LOCATION:America/Argentina/Buenos_Aires
+BEGIN:STANDARD
+TZNAME:-03
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0300
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20210802T024757Z
+DTSTART;TZID=America/Argentina/Buenos_Aires:20210803T140000
+DTEND;TZID=America/Argentina/Buenos_Aires:20210803T170000
+SUMMARY:Clases Electrotecnia y Maquinas Electricas ZOOM 02
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20211105T200000;INTERVAL=1;BYDAY=TU,FR
+UID:ZOOM86181204966
+TZID:America/Argentina/Buenos_Aires
+DESCRIPTION:Clases02 Ingeniería UNCuyo le está invitando a una reunión de
+  Zoom programada.\n\nUnirse a la reunión Zoom\nhttps://us02web.zoom.us/j
+ /86181204966?pwd=eE50enhCOWNOaDlvbXMzaFF1TDBBdz09\n\nID de reunión: 861 
+ 8120 4966\nCódigo de acceso: 501270\nMóvil con un toque\n+12532158782\,\
+ ,86181204966#\,\,\,\,*501270# Estados Unidos (Tacoma)\n+13017158592\,\,8
+ 6181204966#\,\,\,\,*501270# Estados Unidos (Washington DC)\n\nMarcar seg
+ ún su ubicación\n        +1 253 215 8782 Estados Unidos (Tacoma)\n      
+   +1 301 715 8592 Estados Unidos (Washington DC)\n        +1 312 626 679
+ 9 Estados Unidos (Chicago)\n        +1 346 248 7799 Estados Unidos (Hous
+ ton)\n        +1 669 900 6833 Estados Unidos (San Jose)\n        +1 929 
+ 205 6099 Estados Unidos (New York)\nID de reunión: 861 8120 4966\nCódigo
+  de acceso: 501270\nEncuentre su número local: https://us02web.zoom.us/u
+ /kdAc5CqLl6\n
+LOCATION:https://us02web.zoom.us/j/86181204966?pwd=eE50enhCOWNOaDlvbXMzaF
+ F1TDBBdz09
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

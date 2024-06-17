@@ -1,0 +1,2 @@
+2,17 A resistiva pura
+1,64 A resistiva-inductiva
