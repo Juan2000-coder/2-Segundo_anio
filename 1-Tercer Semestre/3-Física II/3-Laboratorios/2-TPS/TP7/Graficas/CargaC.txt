@@ -1,0 +1,4 @@
+Puntos Muestra    Valores Tóricos         Valores Ajustados
+0 5 10 15 20
+0 5.63845 10.9281 16.8362 20.5372
+0 4.83404 9.6817 15.6029 19.7199

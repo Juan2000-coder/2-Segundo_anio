@@ -1,0 +1,4 @@
+Puntos Muestra    Valores Tóricos         Valores Ajustados
+30 25 20 15 10
+30 25.3099 19.8693 13.4283 8.87199
+29.4507 25.3661 20.5087 14.5376 10.1019
