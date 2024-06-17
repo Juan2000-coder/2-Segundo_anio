@@ -1,0 +1,3 @@
+Poisson: p menor al 5% y n mayor que 20
+-para la distribución binomial hipergeométrica y esas se usa la fórmula y cuando se usa binomial y no hay valor de p
+se usa la f´romula y a la mierda

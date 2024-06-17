@@ -1,0 +1,10 @@
+mails:
+Mónica Guitart: monica.guitart@ingenieria.uncuyo.edu.ar
+
+Laura Rossi: laura.rossi@ingenieria.uncuyo.edu.ar
+
+Julián Martínez: julian.martinez@ingenieria.uncuyo.edu.ar
+
+Norma López: norma.lopez@ingenieria.uncuyo.edu.ar 
+
+Cristian Gamba: cristian.gamba@ingenieria.uncuyo.edu.ar
